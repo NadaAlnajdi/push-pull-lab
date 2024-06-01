@@ -1,0 +1,116 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "the Earth",
+      "description": "An epic adventure through subterranean realms.",
+      "price": 22,
+      "author": "Jules Verne",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "The Lost City",
+      "description": "Discover the mysteries of an ancient civilization.",
+      "price": 17,
+      "author": "Sarah Collins",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "title": "A Whisper in the Dark",
+      "description": "A thrilling tale of suspense and intrigue.",
+      "price": 19,
+      "author": "Michael Richards",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "title": "Echoes of Eternity",
+      "description": "A journey through time and space.",
+      "price": 25,
+      "author": "Lisa Thompson",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "title": "The Forgotten Realm",
+      "description": "An exploration of a hidden world within our own.",
+      "price": 20,
+      "author": "John Everett",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "title": "Mystery of the Old Manor",
+      "description": "Uncover the secrets of an abandoned estate.",
+      "price": 18,
+      "author": "Emily Bronte",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "title": "Galactic Chronicles",
+      "description": "Epic tales from the far reaches of the galaxy.",
+      "price": 28,
+      "author": "Isaac Asimov",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "8",
+      "title": "The Art of War",
+      "description": "Ancient strategies for modern conflicts.",
+      "price": 12,
+      "author": "Sun Tzu",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "9",
+      "title": "Mastering the Code",
+      "description": "A comprehensive guide for modern programmers.",
+      "price": 30,
+      "author": "Jane Doe",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "10",
+      "title": "Cooking with Love",
+      "description": "Delicious recipes to share with loved ones.",
+      "price": 22,
+      "author": "Gordon Ramsay",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "users": [
+    {
+      "username": "alice_w",
+      "email": "alice@mail.com",
+      "password": "securePass123!",
+      "id": "1a2b3c4d"
+    },
+    {
+      "username": "bob_smith",
+      "email": "bob@mail.com",
+      "password": "password!@34",
+      "id": "2b3c4d5e"
+    },
+    {
+      "username": "charlie_d",
+      "email": "charlie@mail.com",
+      "password": "charlieP@ssword",
+      "id": "3c4d5e6f"
+    },
+    {
+      "username": "diana_k",
+      "email": "diana@mail.com",
+      "password": "Diana#Pass123",
+      "id": "4d5e6f7g"
+    },
+    {
+      "username": "edward_m",
+      "email": "edward@mail.com",
+      "password": "Edward$$pass",
+      "id": "5e6f7g8h"
+    }
+  ]
+}
